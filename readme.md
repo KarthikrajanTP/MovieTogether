@@ -1,0 +1,1 @@
+start servr :  daphne -p 8000 movietogether.asgi:application
